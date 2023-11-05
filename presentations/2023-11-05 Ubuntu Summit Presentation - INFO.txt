@@ -3,8 +3,23 @@ Date: 2023-11-05
 Information: Presentation deck from talk given by Dr Aparna Sundar, and Kris Freedain at Ubuntu Summmit 2023
 https://events.canonical.com/event/31/contributions/238/
 Description
-While transparency is a key pillar of open-source projects, questions on trust often surface. Critics of open-source code question the level of self-critique that contributors demonstrate that could end up in “bad faith” commits. Critiques also argue and question if the open-source system is designed for security given the nature of the lack of accountability, given the open-source or “free” nature and vulnerability of developers to hackers etc. As the source code is available to anyone to modify or distribute, developers trusting the project is important. Individual developers and companies alike trust open-source software as it is easier to use than developing code from scratch.
+While transparency is a key pillar of open-source projects, questions on trust often surface. Critics of open-source code question the 
+level of self-critique that contributors demonstrate that could end up in “bad faith” commits. Critiques also argue and question if the 
+open-source system is designed for security given the nature of the lack of accountability, given the open-source or “free” nature and 
+vulnerability of developers to hackers etc. As the source code is available to anyone to modify or distribute, developers trusting the 
+project is important. Individual developers and companies alike trust open-source software as it is easier to use than developing code 
+from scratch.
 
-The Linux foundation offers ways to measure security awareness, and the success of an open-source program. That said, other ways to measure trust in organizations exists. The basic premise of trust in an organization is to define the quality of a relationship between individuals and the organization. Trust essentially is a multi-level construct, that is culturally-rooted, is an outcome of communication by the organization, dynamic, and multi-dimensional. Trust has a measurable financial impact in an organization. Measuring a community’s trust in an organization can be multi-pronged. The project could measure perceived dependability by the community, the perceived sense of control mutuality, perceived commitment, satisfaction, communal relationship, and importantly exchange relationship.
+The Linux foundation offers ways to measure security awareness, and the success of an open-source program. That said, other ways to 
+measure trust in organizations exists. The basic premise of trust in an organization is to define the quality of a relationship between 
+individuals and the organization. Trust essentially is a multi-level construct, that is culturally-rooted, is an outcome of communication 
+by the organization, dynamic, and multi-dimensional. Trust has a measurable financial impact in an organization. Measuring a community’s trust 
+in an organization can be multi-pronged. The project could measure perceived dependability by the community, the perceived sense of control 
+mutuality, perceived commitment, satisfaction, communal relationship, and importantly exchange relationship.
 
-Depending on community perception, the open-source project could enhance trust in multiple ways. Strategies recommended by the Linux foundation include seeking out influential peers and mentors, encouraging and practicing an Open and Collaborative mindset when implementing open-source infrastructure, adopting IT flexible IT infrastructure that is supportive of open-source development, adopting and tracking metrics that are designed for open-source environment, adopting a tailored but lightweight approach to code contributions, sharing information, contribute to products and services to remain relevant and up to date, support maintainers, reduce technical debt, develop talent internally, support and develop mentorship programs, participate in technical discussions to increase visibility.
+Depending on community perception, the open-source project could enhance trust in multiple ways. Strategies recommended by the Linux foundation 
+include seeking out influential peers and mentors, encouraging and practicing an Open and Collaborative mindset when implementing open-source 
+infrastructure, adopting IT flexible IT infrastructure that is supportive of open-source development, adopting and tracking metrics that are 
+designed for open-source environment, adopting a tailored but lightweight approach to code contributions, sharing information, contribute to 
+products and services to remain relevant and up to date, support maintainers, reduce technical debt, develop talent internally, support and 
+develop mentorship programs, participate in technical discussions to increase visibility.
