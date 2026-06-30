@@ -11,10 +11,6 @@ body:
       options:
         - label: I have reviewed and accept the [Official Rules](https://opensearch.org).
           required: true
-  - type: checkboxes
-    id: code_of_conduct_reviewed
-    attributes:
-      options:
         - label: I have reviewed and accept the [Code of Conduct](https://opensearch.org/code-of-conduct/).
           required: true
 
