@@ -9,9 +9,11 @@ body:
       label: Prerequisites
       description: Before submitting a Hackathon project idea, please review the following
       options:
-        - label: I have reviewed and accept the [Official Rules](https://opensearch.org).
+        - label: I have reviewed and accept the [Official Rules](https://opensearch.org/events/agent-skills-hackathon-us-2026/official-rules/).
           required: true
         - label: I have reviewed and accept the [Code of Conduct](https://opensearch.org/code-of-conduct/).
+          required: true
+        - label: I am a legal United States resident 18 years or older.
           required: true
 
   - type: input
